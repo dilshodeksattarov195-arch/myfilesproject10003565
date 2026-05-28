@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperpalidate",
+        "uuid": 21151145,
+        "checksum": "0wmhsa"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
